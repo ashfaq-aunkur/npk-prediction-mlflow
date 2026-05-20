@@ -1,0 +1,5 @@
+.venv/
+.venv-1/
+mlruns/
+models
+datasets/
